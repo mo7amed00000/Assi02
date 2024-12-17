@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assi02", "Assi02\Assi02.csproj", "{2A26CCAF-BED6-4F6B-9EC5-8F6A9715A3DB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assiment 02", "Assiment 02\Assiment 02.csproj", "{F68BCCD3-F07C-4651-9D51-19BD62B680CA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2A26CCAF-BED6-4F6B-9EC5-8F6A9715A3DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A26CCAF-BED6-4F6B-9EC5-8F6A9715A3DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A26CCAF-BED6-4F6B-9EC5-8F6A9715A3DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A26CCAF-BED6-4F6B-9EC5-8F6A9715A3DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F68BCCD3-F07C-4651-9D51-19BD62B680CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F68BCCD3-F07C-4651-9D51-19BD62B680CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F68BCCD3-F07C-4651-9D51-19BD62B680CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F68BCCD3-F07C-4651-9D51-19BD62B680CA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
